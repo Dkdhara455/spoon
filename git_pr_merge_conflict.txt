@@ -27,6 +27,6 @@ manualy chenge your code
 ->git add and git commit
 ->git push origin main
 
-go-to your git-repo see the comparision
+go-to your git-repo see the comparision (inside pull requests)
 
 [for practice do again and again]
