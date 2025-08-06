@@ -10,7 +10,7 @@
 ->git commit -m "<write your message>"
 ->git push origin main (push your code in metioned git-repo)
 
-  **raise a puul requests(pr)** (follow the steps)
+  **raise a pull requests(pr)** (follow the steps)
 --------------------------------------------------
 ->goto your github repo
 ->click "compare & pull request"
@@ -19,7 +19,8 @@
 
   Create a Merge Conflict
 ---------------------------
-->git fetch upstream
+(in terminal/cmd)
+->git fetch upstream 
 ->git checkout main (for indicate main repo)
 ->git merge upstream/main (merge upstream with main)
 
